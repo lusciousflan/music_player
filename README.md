@@ -1,16 +1,9 @@
 # flutter_music_player
 
-A new Flutter project.
+完全に自分用の音楽再生アプリです。未完成。
 
-## Getting Started
+## 機能説明
 
-This project is a starting point for a Flutter application.
+・複数のプレイリストを同時に再生できる
+・音楽にタグを付けることで効率的な分類を可能にする
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
